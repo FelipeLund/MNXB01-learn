@@ -36,5 +36,11 @@ Art by lgbeard
                `--..__                 _.---'
                       `--..______...--'
 ```
+> Picture credits: <https://www.asciiart.eu/miscellaneous/other>
+> The **thingy** _thingy_ loved watching his old CRT in the living room.
+> Most likely it would show either static or it would be completely off,
+> because who sends wireless tv signals nowadays? Sitting in its 
+> comfortable sofa under a dim cosy light, blissfully unaware of any 
+> other **thingy** _thingy_ out of its windows, enjoying its fredagsmys.
 
-Credits: <https://www.asciiart.eu/miscellaneous/other>
+
